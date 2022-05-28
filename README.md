@@ -1,6 +1,6 @@
 # async-declaration-practice
 
-async declaration practice using react suspense, errorboundary, fetch, react-query
+async declaration practice using React Suspense, ErrorBoundary, react-query
 
 
 
