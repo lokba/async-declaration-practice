@@ -1,2 +1,2 @@
 # async-declaration
-async declaration using react suspense, errorboundary, fetch
+async declaration practice using react suspense, errorboundary, fetch
